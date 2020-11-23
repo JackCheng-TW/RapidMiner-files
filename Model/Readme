@@ -1,0 +1,6 @@
+RapidMiner manages its files in so called repositories which are listed in the "Repositories" tab. 
+All files in this repository are stored on your file system. 
+To use these files it is sufficient to copy & paste them into the directory on your file system and refresh the repository in RapidMiner (or restart the program).
+Enjoy them!
+
+Jack Cheng
